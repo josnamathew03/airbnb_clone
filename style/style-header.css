@@ -72,7 +72,8 @@ h6 {
     top: 0;
     background-image: linear-gradient(rgb(255, 255, 255) 39.9%, rgb(248, 248, 248) 100%)
 }
-header{
+
+header {
     position: sticky;
     top: 0;
     z-index: 1;
@@ -110,11 +111,13 @@ header{
 }
 
 .nav-wrap {
-    margin: 8px;
+    margin-top: 8px;
+    margin-bottom: 10px;
     display: flex;
     justify-content: center;
-    gap: 36px;
+    gap: 37.5px;
     position: relative;
+    align-items: flex-start;
 }
 
 .nav-anchor {
@@ -129,7 +132,7 @@ header{
 
 .video-wrap {
     position: relative;
-
+    transform: translateY(1px);
 }
 
 .video-span {
@@ -150,14 +153,15 @@ header{
 }
 
 .service-text {
-    margin-left: 16px;
+    margin-left: 15.9px;
     line-height: 1.125rem;
     font-weight: 600;
     font-size: 0.875rem;
+    color: #222222;
 }
 
 .nav-exp-anchor {
-
+    margin-left: -3px;
     margin-bottom: 12px;
     align-items: center;
     cursor: pointer;
@@ -185,9 +189,9 @@ header{
 
 .nav-after::after {
     content: "";
-    transform: translateX(85px) scaleX(9.78782);
-    height: 3px;
-    width: 10px;
+    transform: translateX(93px) scaleX(9.78782);
+    height: 2.8px;
+    width: 10.5983px;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -208,7 +212,7 @@ header{
 
 .new-wrap span {
     line-height: 0.625rem;
-    font-weight: 700;
+    font-weight: 800;
     text-align: center;
     letter-spacing: 0.04em;
     text-wrap: nowrap;
@@ -216,9 +220,11 @@ header{
     position: relative;
 
 }
-.search-con-d-d{
+
+.search-con-d-d {
     position: relative;
 }
+
 .search-con-d {
     /* top: 118%; */
     top: 14.5px;
@@ -270,6 +276,16 @@ header{
     position: absolute;
     content: "";
 }
+/* .search-each-con::after{
+    content: "";
+    background: transparent;
+    border-radius: 32px;
+    width: calc(100% + 70px);
+    height: 100%;
+    position: absolute;
+    top: 0;
+} */
+
 
 /* .search-each-con::before{
     content: "";
@@ -295,7 +311,8 @@ header{
 }
 
 .search-each-text {
-    padding-bottom: 2px;
+    transform: translateY(-.5px);
+    padding-bottom: 3px;
     line-height: 1rem;
     font-size: 0.75rem;
     font-weight: 500;
@@ -303,11 +320,13 @@ header{
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: clip;
+    display: flex;
+    align-self: flex-start;
 }
 
 .search-each-input {
     display: flex;
-
+    /* padding-top: 2px; */
 }
 
 .search-each-input input {
@@ -316,8 +335,9 @@ header{
     font-size: .875rem;
     background: none;
     border: none;
-
-
+    text-decoration: none;
+    letter-spacing: .235px;
+    outline: none;
 
 }
 
@@ -386,9 +406,10 @@ header{
 .host-btn {
     border: none;
     background: transparent;
-    padding: 11px 12px;
+    padding: 11.5px 12px 11px;
     line-height: 1.125rem;
-    font-size: .875rem;
+    /* font-size: .875rem; */
+    font-size: 14.045px;
     font-weight: 500;
     display: flex;
     align-items: center;

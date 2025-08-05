@@ -1,127 +1,250 @@
 {
     "Popular homes in Bengaluru": [
         {
+            "id": 1,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
+            "id": 2,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
             "name": "Apartment in Bangalore Urban",
             "price": 6504,
             "for": 2,
-            "rating": 4.94
+            "rating": 4.94,
+            "type": "Treehouses",
+            "location": "United States"
         },
         {
+            "id": 3,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 3079,
             "for": 2,
-            "rating": 4.82
+            "rating": 4.82,
+            "type": "Tiny Houses",
+            "location": "United States"
         },
         {
+            "id": 4,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Beach Houses",
+            "location": "United States"
         },
         {
+            "id": 5,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            
+            "type": "Lake Houses",
+            "location": "United States"
         },
         {
+            "id": 6,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Yurt Rentals",
+            "location": "United States"
         },
         {
+            "id": 7,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Yurt Rentals",
+            "location": "United Kingdom"
         },
         {
+            "id": 8,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Castle Rentals",
+            "location": "United States"
         },
         {
+            "id": 9,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
             "name": "Apartment in Bangalore Urban",
             "price": 6504,
             "for": 2,
-            "rating": 4.94
+            "rating": 4.94, 
+            "type": "Houseboats",
+            "location": "United States"
         },
         {
+            "id": 10,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 3079,
             "for": 2,
-            "rating": 4.82
+            "rating": 4.82, 
+            "type": "Holiday Caravans",
+            "location": "United Kingdom"
         },
         {
+            "id": 11,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Private Island Rentals",
+            "location": "United States"
         },
         {
+            "id": 12,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Farm Houses",
+            "location": "United States"
         },
         {
+            "id": 13,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Farm Cottages",
+            "location": "United Kingdom"
         },
         {
+            "id": 14,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Cabin Rentals",
+            "location": "Australia"
         }
     ],
     "Available in Puducherry this weekend": [
         {
+            "id": 15,
             "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1172281683553974712/original/1bb96bdc-f507-485d-b56c-b55762c2fa60.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Luxury Cabins",
+            "location": "United Kingdom"
         },
         {
+            "id": 16,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Holiday Chalets",
+            "location": "United Kingdom"
         },
         {
+            "id": 17,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
             "name": "Apartment in Bangalore",
             "price": 6504,
             "for": 2,
-            "rating": 4.94
+            "rating": 4.94 ,
+             "type": "Holiday Chalets",
+            "location": "United Kingdom"
         },
         {
+            "id": 18,
+            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
+            "name": "Flat in Bangalore Urban",
+            "price": 3079,
+            "for": 2,
+            "rating": 4.82,
+               "type": "Holiday Chalets",
+            "location": "United Kingdom"
+        },
+        {
+            "id": 19,
+            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
+            "name": "Flat in Bangalore Urban",
+            "price": 5478,
+            "for": 2,
+            "rating": 5, 
+            "type": "Luxury Cabins",
+            "location": "United Kingdom"
+        },
+        {
+            "id": 20,
+            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
+            "name": "Flat in Bangalore Urban",
+            "price": 5478,
+            "for": 2,
+            "rating": 5, 
+            "type": "Luxury Cabins",
+            "location": "United Kingdom"
+        },
+        {
+            "id": 21,
+            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
+            "name": "Flat in Bangalore Urban",
+            "price": 5478,
+            "for": 2,
+            "rating": 5, 
+            "type": "Luxury Cabins",
+            "location": "United Kingdom"
+        },
+        {
+            "id": 22,
+            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
+            "name": "Flat in Bangalore Urban",
+            "price": 5478,
+            "for": 2,
+            "rating": 5, 
+            "type": "Cabin Rentals",
+            "location": "Australia"
+        },
+        {
+            "id": 23,
+            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
+            "name": "Flat in Bangalore Urban",
+            "price": 5478,
+            "for": 2,
+            "rating": 5, 
+            "type": "Cabin Rentals",
+            "location": "Australia"
+        },
+        {
+            "id": 24,
+            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
+            "name": "Apartment in Bangalore",
+            "price": 6504,
+            "for": 2,
+            "rating": 4.94,
+            "type": "Treehouses",
+            "location": "United States"
+        },
+        {
+            "id": 25,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 3079,
@@ -129,6 +252,7 @@
             "rating": 4.82
         },
         {
+            "id": 26,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -136,13 +260,17 @@
             "rating": 5
         },
         {
+            "id": 27,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Luxury Cabins",
+            "location": "United States"
         },
         {
+            "id": 28,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -150,55 +278,7 @@
             "rating": 5
         },
         {
-            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
-            "name": "Flat in Bangalore Urban",
-            "price": 5478,
-            "for": 2,
-            "rating": 5
-        },
-        {
-            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
-            "name": "Flat in Bangalore Urban",
-            "price": 5478,
-            "for": 2,
-            "rating": 5
-        },
-        {
-            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
-            "name": "Apartment in Bangalore",
-            "price": 6504,
-            "for": 2,
-            "rating": 4.94
-        },
-        {
-            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
-            "name": "Flat in Bangalore Urban",
-            "price": 3079,
-            "for": 2,
-            "rating": 4.82
-        },
-        {
-            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
-            "name": "Flat in Bangalore Urban",
-            "price": 5478,
-            "for": 2,
-            "rating": 5
-        },
-        {
-            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
-            "name": "Flat in Bangalore Urban",
-            "price": 5478,
-            "for": 2,
-            "rating": 5
-        },
-        {
-            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
-            "name": "Flat in Bangalore Urban",
-            "price": 5478,
-            "for": 2,
-            "rating": 5
-        },
-        {
+            "id": 29,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -208,6 +288,7 @@
     ],
     "Stay in Dindigul": [
         {
+            "id": 30,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
             "name": "Apartment in Bangalore",
             "price": 6504,
@@ -215,6 +296,7 @@
             "rating": 4.94
         },
         {
+            "id": 31,
             "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1172281683553974712/original/1bb96bdc-f507-485d-b56c-b55762c2fa60.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -222,55 +304,77 @@
             "rating": 5
         },
         {
+            "id": 32,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Luxury Cabins",
+            "location": "United States"
         },
         {
+            "id": 33,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 3079,
             "for": 2,
-            "rating": 4.82
+            "rating": 4.82,
+            "type": "Tiny Houses",
+            "location": "United States"
         },
         {
+            "id": 34,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Tiny Houses",
+            "location": "United States"
         },
         {
+            "id": 35,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Tiny Houses",
+            "location": "United States"
         },
         {
+            "id": 36,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Tiny Houses",
+            "location": "United States"
         },
         {
+            "id": 37,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Tiny Houses",
+            "location": "United States"
         },
         {
+            "id": 38,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Luxury Cabins",
+            "location": "United States"
         },
         {
+            "id": 39,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
             "name": "Apartment in Bangalore",
             "price": 6504,
@@ -278,6 +382,7 @@
             "rating": 4.94
         },
         {
+            "id": 40,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 3079,
@@ -285,6 +390,7 @@
             "rating": 4.82
         },
         {
+            "id": 41,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -292,6 +398,7 @@
             "rating": 5
         },
         {
+            "id": 42,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -299,6 +406,7 @@
             "rating": 5
         },
         {
+            "id": 43,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -306,15 +414,19 @@
             "rating": 5
         },
         {
+            "id": 44,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Luxury Cabins",
+            "location": "United States"
         }
     ],
     "Available next month in Hyderabad": [
         {
+            "id": 45,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -322,6 +434,7 @@
             "rating": 5
         },
         {
+            "id": 46,
             "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1172281683553974712/original/1bb96bdc-f507-485d-b56c-b55762c2fa60.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -329,6 +442,7 @@
             "rating": 5
         },
         {
+            "id": 47,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
             "name": "Apartment in Bangalore Urban",
             "price": 6504,
@@ -336,6 +450,7 @@
             "rating": 4.94
         },
         {
+            "id": 48,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 3079,
@@ -343,81 +458,114 @@
             "rating": 4.82
         },
         {
+            "id": 49,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Beach Houses",
+            "location": "United States"
         },
         {
+            "id": 50,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Beach Houses",
+            "location": "United States"
         },
         {
+            "id": 51,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Beach Houses",
+            "location": "United States"
         },
         {
+            "id": 52,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Beach Houses",
+            "location": "United States"
         },
         {
+            "id": 53,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Beach Houses",
+            "location": "United States"
         },
         {
+            "id": 54,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
             "name": "Apartment in Bangalore Urban",
             "price": 6504,
             "for": 2,
-            "rating": 4.94
+            "rating": 4.94,
+            "type": "Beach Houses",
+            "location": "United States"
         },
         {
+            "id": 55,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 3079,
             "for": 2,
-            "rating": 4.82
+            "rating": 4.82,
+            "type": "Beach Houses",
+            "location": "United States"
         },
         {
+            "id": 56,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Beach Houses",
+            "location": "United States"
         },
         {
+            "id": 57,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Beach Houses",
+            "location": "United States"
         },
         {
+            "id": 58,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Beach Houses",
+            "location": "United States"
         },
         {
+            "id": 59,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Beach Houses",
+            "location": "United States"
         }
     ],
     "Homes in The Nilgiris": [
@@ -426,137 +574,195 @@
             "name": "Flat in Bangalore Urban",
             "price": 3079,
             "for": 2,
-            "rating": 4.82
+            "rating": 4.82,
+            "id": 60,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "id": 61,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "id": 62,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
             "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1172281683553974712/original/1bb96bdc-f507-485d-b56c-b55762c2fa60.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "id": 63,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "id": 64,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
-            "name": "Apartment in Bangalore Urban",
+            "name": "Apartment in Bangalore",
             "price": 6504,
             "for": 2,
-            "rating": 4.94
+            "rating": 4.94,
+            "id": 65,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "id": 66,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "id": 67,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "id": 68,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
-            "name": "Apartment in Bangalore Urban",
+            "name": "Apartment in Bangalore ",
             "price": 6504,
             "for": 2,
-            "rating": 4.94
+            "rating": 4.94,
+            "id": 69,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 3079,
             "for": 2,
-            "rating": 4.82
+            "rating": 4.82,
+            "id": 70,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "id": 71,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "id": 72,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "id": 73,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "id": 74,
+            "type": "Cabins",
+            "location": "United States"
         }
     ],
     "Available next month in South Goa": [
         {
+            "id": 75,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
+            "id": 76,
             "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1172281683553974712/original/1bb96bdc-f507-485d-b56c-b55762c2fa60.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
+            "id": 77,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
+            "id": 78,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
             "name": "Apartment in Bangalore",
             "price": 6504,
             "for": 2,
-            "rating": 4.94
+            "rating": 4.94,
+            "type": "Cabins",
+            "location": "United States"
         },
         {
+            "id": 79,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 3079,
@@ -564,6 +770,7 @@
             "rating": 4.82
         },
         {
+            "id": 80,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -571,6 +778,7 @@
             "rating": 5
         },
         {
+            "id": 81,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -578,6 +786,7 @@
             "rating": 5
         },
         {
+            "id": 82,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -585,6 +794,7 @@
             "rating": 5
         },
         {
+            "id": 83,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -592,6 +802,7 @@
             "rating": 5
         },
         {
+            "id": 84,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
             "name": "Apartment in Bangalore",
             "price": 6504,
@@ -599,6 +810,7 @@
             "rating": 4.94
         },
         {
+            "id": 85,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 3079,
@@ -606,13 +818,17 @@
             "rating": 4.82
         },
         {
+            "id": 86,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Farm Cottages",
+            "location": "United Kingdom"
         },
         {
+            "id": 87,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -620,13 +836,17 @@
             "rating": 5
         },
         {
+            "id": 88,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Farm Cottages",
+            "location": "United Kingdom"
         },
         {
+            "id": 89,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -636,13 +856,17 @@
     ],
     "Places to stay in Coimbatore": [
         {
+            "id": 90,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 3079,
             "for": 2,
-            "rating": 4.82
+            "rating": 4.82, 
+            "type": "Farm Cottages",
+            "location": "United Kingdom"
         },
         {
+            "id": 91,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -650,41 +874,57 @@
             "rating": 5
         },
         {
+            "id": 92,
             "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1172281683553974712/original/1bb96bdc-f507-485d-b56c-b55762c2fa60.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Farm Cottages",
+            "location": "United Kingdom"
         },
         {
+            "id": 93,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Private Island Rentals",
+            "location": "United States"
         },
         {
+            "id": 94,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
             "name": "Apartment in Bangalore Urban",
             "price": 6504,
             "for": 2,
-            "rating": 4.94
+            "rating": 4.94, 
+            "type": "Private Island Rentals",
+            "location": "United States"
         },
         {
+            "id": 95,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Private Island Rentals",
+            "location": "United States"
         },
         {
+            "id": 96,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Private Island Rentals",
+            "location": "United States"
         },
         {
+            "id": 97,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -692,13 +932,17 @@
             "rating": 5
         },
         {
+            "id": 98,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Holiday Caravans",
+            "location": "United Kingdom"
         },
         {
+            "id": 99,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
             "name": "Apartment in Bangalore Urban",
             "price": 6504,
@@ -706,6 +950,7 @@
             "rating": 4.94
         },
         {
+            "id": 100,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 3079,
@@ -713,6 +958,7 @@
             "rating": 4.82
         },
         {
+            "id": 101,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -720,43 +966,132 @@
             "rating": 5
         },
         {
+            "id": 102,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            
+            "type": "Lake Houses",
+            "location": "United States"
         },
         {
+            "id": 103,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            
+            "type": "Lake Houses",
+            "location": "United States"
         },
         {
+            "id": 104,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            
+            "type": "Lake Houses",
+            "location": "United States"
         }
     ],
     "Check out homes in Thiruvananthapuram": [
         {
+            "id": 105,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
             "name": "Apartment in Bangalore Urban",
             "price": 6504,
             "for": 2,
-            "rating": 4.94
+            "rating": 4.94,
+            "type": "Yurt Rentals",
+            "location": "United States"
         },
         {
+            "id": 106,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 3079,
             "for": 2,
-            "rating": 4.82
+            "rating": 4.82,
+            "type": "Yurt Rentals",
+            "location": "United States"
         },
         {
+            "id": 107,
+            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
+            "name": "Flat in Bangalore Urban",
+            "price": 5478,
+            "for": 2,
+            "rating": 5,
+            "type": "Yurt Rentals",
+            "location": "United States"
+        },
+        {
+            "id": 108,
+            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
+            "name": "Flat in Bangalore Urban",
+            "price": 5478,
+            "for": 2,
+            "rating": 5,
+            "type": "Yurt Rentals",
+            "location": "United States"
+        },
+        {
+            "id": 109,
+            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
+            "name": "Flat in Bangalore Urban",
+            "price": 5478,
+            "for": 2,
+            "rating": 5, 
+            "type": "Houseboats",
+            "location": "United States"
+        },
+        {
+            "id": 110,
+            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
+            "name": "Flat in Bangalore Urban",
+            "price": 5478,
+            "for": 2,
+            "rating": 5, 
+            "type": "Yurt Rentals",
+            "location": "United Kingdom"
+        },
+        {
+            "id": 111,
+            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
+            "name": "Flat in Bangalore Urban",
+            "price": 5478,
+            "for": 2,
+            "rating": 5, 
+            "type": "Yurt Rentals",
+            "location": "United Kingdom"
+        },
+        {
+            "id": 112,
+            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
+            "name": "Apartment in Bangalore Urban",
+            "price": 6504,
+            "for": 2,
+            "rating": 4.94, 
+            "type": "Yurt Rentals",
+            "location": "United Kingdom"
+        },
+        {
+            "id": 113,
+            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
+            "name": "Flat in Bangalore Urban",
+            "price": 3079,
+            "for": 2,
+            "rating": 4.82, 
+            "type": "Yurt Rentals",
+            "location": "United Kingdom"
+        },
+        {
+            "id": 114,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -764,13 +1099,17 @@
             "rating": 5
         },
         {
+            "id": 115,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5,
+            "type": "Yurt Rentals",
+            "location": "United States"
         },
         {
+            "id": 116,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -778,6 +1117,7 @@
             "rating": 5
         },
         {
+            "id": 117,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -785,55 +1125,7 @@
             "rating": 5
         },
         {
-            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
-            "name": "Flat in Bangalore Urban",
-            "price": 5478,
-            "for": 2,
-            "rating": 5
-        },
-        {
-            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
-            "name": "Apartment in Bangalore Urban",
-            "price": 6504,
-            "for": 2,
-            "rating": 4.94
-        },
-        {
-            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
-            "name": "Flat in Bangalore Urban",
-            "price": 3079,
-            "for": 2,
-            "rating": 4.82
-        },
-        {
-            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
-            "name": "Flat in Bangalore Urban",
-            "price": 5478,
-            "for": 2,
-            "rating": 5
-        },
-        {
-            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
-            "name": "Flat in Bangalore Urban",
-            "price": 5478,
-            "for": 2,
-            "rating": 5
-        },
-        {
-            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
-            "name": "Flat in Bangalore Urban",
-            "price": 5478,
-            "for": 2,
-            "rating": 5
-        },
-        {
-            "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
-            "name": "Flat in Bangalore Urban",
-            "price": 5478,
-            "for": 2,
-            "rating": 5
-        },
-        {
+            "id": 118,
             "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1172281683553974712/original/1bb96bdc-f507-485d-b56c-b55762c2fa60.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -841,6 +1133,7 @@
             "rating": 5
         },
         {
+            "id": 119,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -850,6 +1143,7 @@
     ],
     "Popular homes in North Goa": [
         {
+            "id": 120,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -857,6 +1151,7 @@
             "rating": 5
         },
         {
+            "id": 121,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
             "name": "Apartment in Bangalore",
             "price": 6504,
@@ -864,6 +1159,7 @@
             "rating": 4.94
         },
         {
+            "id": 122,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 3079,
@@ -871,6 +1167,7 @@
             "rating": 4.82
         },
         {
+            "id": 123,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -878,6 +1175,7 @@
             "rating": 5
         },
         {
+            "id": 124,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -885,6 +1183,7 @@
             "rating": 5
         },
         {
+            "id": 125,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -892,27 +1191,37 @@
             "rating": 5
         },
         {
+            "id": 126,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Farm Houses",
+            "location": "United States"
         },
         {
+            "id": 127,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
             "for": 2,
-            "rating": 5
+            "rating": 5, 
+            "type": "Farm Houses",
+            "location": "United States"
         },
         {
+            "id": 128,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1118422882348724135/original/a40a9fc3-9bee-46fc-bc33-61dd649cd6a8.jpeg?im_w=480",
             "name": "Apartment in Bangalore",
             "price": 6504,
             "for": 2,
-            "rating": 4.94
+            "rating": 4.94, 
+            "type": "Farm Houses",
+            "location": "United States"
         },
         {
+            "id": 129,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1131789927021539466/original/52a6957f-d4e1-4255-9b5f-f9ef5fc35785.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 3079,
@@ -920,6 +1229,7 @@
             "rating": 4.82
         },
         {
+            "id": 130,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3NjA2OTg3ODIxMjc2NTgwMw==/original/ff8aa960-ad96-4dbc-a03e-b4fbc97db6a2.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -927,6 +1237,7 @@
             "rating": 5
         },
         {
+            "id": 131,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1347877228756987540/original/0be45a01-9007-4f6e-b11e-6594e909d408.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -934,6 +1245,7 @@
             "rating": 5
         },
         {
+            "id": 132,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1096365467309628265/original/aa2f1eed-2157-4932-8be8-ebe60a697732.jpeg?im_w=480",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
@@ -941,6 +1253,7 @@
             "rating": 5
         },
         {
+            "id": 133,
             "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1413858431883771385/original/1b106e35-1218-4e67-9f83-7d55e739c9ab.jpeg?im_w=720",
             "name": "Flat in Bangalore Urban",
             "price": 5478,
