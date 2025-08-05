@@ -21,7 +21,8 @@ export function wishList() {
                 return
             }
             else {
-                wishSvg.style.fill = '#ff385c';
+                // wishSvg.style.fill = '#ff385c';
+                wishSvg.classList.add('fill')
                 for (const category in categories) {
                     const room = categories[category].find(room => room.id === Number(roomId))
                     if (room) {

@@ -15,7 +15,6 @@ const categoryCon = document.querySelector(".category-container")
 export async function renderCategories(favorites, fillId) {
     await loadCatogories()
     let categorieshtml = ''
-    console.log()
     if (favorites === null) {
         return
     }
@@ -103,11 +102,12 @@ export async function renderCategories(favorites, fillId) {
 
         categories[category].forEach(room => {
 
-            const isFav = favorites?.favorites?.some(favRoom => favRoom.id === room.id)
-            categorieshtml += renderRooms(room, isFav)
-
-
-
+            if (room.id === Number(fillId)) {
+                const wishSvg = document.querySelector(` .wish-svg-${fillId}`)
+                categorieshtml += renderRooms(room, true)
+            }
+            else
+                categorieshtml += renderRooms(room, false)
 
         });
         categorieshtml += ` 
