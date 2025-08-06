@@ -152,6 +152,7 @@ main {
     background-color: rgba(255, 255, 255, 0.8);
     padding: 5.5px 9.5px;
     position: absolute;
+    background-clip: border-box;
     top: 12px;
     left: 12px;
     border-radius: 24px;
@@ -234,4 +235,9 @@ main {
 }
 .fill{
     fill: rgb(255, 56, 92) !important;
+}
+
+
+.nav-bottom-m{
+    display: none;
 }

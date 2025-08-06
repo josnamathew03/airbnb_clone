@@ -1,70 +1,20 @@
-import { search } from "./search.js"
-import { wishList } from "./wishlist.js"
-import { filterUnique } from "./filter.js"
+
 
 export let categories = []
-async function loadCatogories() {
+export async function loadCatogories() {
 
     const response = await fetch("./data/categories.json")
-    const data = await response.json()
-    categories = data
+    // const data = await response.json()
+    // categories = data
+    categories = await response.json()
 }
 // loadCatogories()
 
 const categoryCon = document.querySelector(".category-container")
-export async function renderCategories(favorites, fillId) {
-    await loadCatogories()
+export  function renderCategories(categories, fillId) {
+    // await loadCatogories()
     let categorieshtml = ''
     console.log()
-    if (favorites === null) {
-        return
-    }
-    else {
-
-        for (const fav in favorites) {
-            categorieshtml += `   <div class="section-name-con">
-                                <h2>
-                                    <span class="section-name">
-                                        ${fav}<span class="right-arrow-first">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" aria-hidden="true"
-                                                role="presentation" focusable="false"
-                                                style="display: block; fill: none; height: 12px; width: 12px; stroke: currentcolor; stroke-width: 5.33333; overflow: visible;">
-                                                <path fill="none" d="m12 4 11.3 11.3a1 1 0 0 1 0 1.4L12 28"></path>
-                                            </svg>
-                                        </span>
-                                    </span>
-                                </h2>
-                                <div class="right-arrow-con">
-                                    <div class="right-arrow-wrap">
-                                        <button class="bt1">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" aria-hidden="true"
-                                                role="presentation" focusable="false"
-                                                style="display: block; fill: none; height: 12px; width: 12px; stroke: currentcolor; stroke-width: 4; overflow: visible;">
-                                                <path fill="none" d="M20 28 8.7 16.7a1 1 0 0 1 0-1.4L20 4"></path>
-                                            </svg>
-                                        </button>
-                                        <button class="bt2">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" aria-hidden="true"
-                                                role="presentation" focusable="false"
-                                                style="display: block; fill: none; height: 12px; width: 12px; stroke: currentcolor; stroke-width: 4; overflow: visible;">
-                                                <path fill="none" d="m12 4 11.3 11.3a1 1 0 0 1 0 1.4L12 28"></path>
-                                            </svg>
-                                        </button>
-                                    </div>
-                                </div>
-                             </div>
-                   
-                        <div class="section-content-con">
-                            <div class="section-content-wrap">`
-            favorites[fav].forEach((item) => {
-                categorieshtml += renderRooms(item, true)
-                // console.log(item)
-            });
-            categorieshtml += ` 
-                                           </div>
-                        </div>`
-        }
-    }
     for (const category in categories) {
         categorieshtml += `   <div class="section-name-con">
                                 <h2>
@@ -103,11 +53,9 @@ export async function renderCategories(favorites, fillId) {
 
         categories[category].forEach(room => {
 
-            const isFav = favorites?.favorites?.some(favRoom => favRoom.id === room.id)
+            const isFav = categories?.Favorites?.some(favRoom => favRoom.id === room.id)
+            // console.log(categories.Favorites)
             categorieshtml += renderRooms(room, isFav)
-
-
-
 
         });
         categorieshtml += ` 
@@ -118,11 +66,8 @@ export async function renderCategories(favorites, fillId) {
     }
     categoryCon.innerHTML = categorieshtml
 
-    search()
-    wishList()
-    filterUnique()
 }
-renderCategories({})
+
 
 export function renderRooms(room, isFav) {
     let roomshtml = ''

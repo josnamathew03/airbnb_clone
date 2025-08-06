@@ -93,8 +93,14 @@ header {
     background-color: white;
 }
 
-.logo svg {
+.logo-wrap svg {
     fill: #ff385c !important;
+}
+.logo2{
+    display: none;
+}
+.nav-con-m{
+    display: none;
 }
 
 .nav-con {
@@ -220,7 +226,9 @@ header {
     position: relative;
 
 }
-
+.search-wrap{
+    display: none !important;
+}
 .search-con-d-d {
     position: relative;
 }

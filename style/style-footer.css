@@ -35,7 +35,17 @@ footer {
     line-height: 1.125rem;
     font-size: 0.875rem;
     font-weight: 500;
+    position: relative;
 }
+ .unique-head-wrap button::after{
+        height: 2px;
+        background-color: #222222;
+        left: 10px;
+        position: absolute;
+        content: '';
+        width: calc( 100% - 20px);
+        bottom: -6px;
+    }
 
 .footer-border {
     background-color: #dddddd;
