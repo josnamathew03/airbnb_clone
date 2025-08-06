@@ -22,7 +22,8 @@ body,
 p,
 ul,
 li,
-a {
+a,
+input {
     padding: 0;
     margin: 0;
     text-decoration: none;
@@ -96,10 +97,12 @@ header {
 .logo-wrap svg {
     fill: #ff385c !important;
 }
-.logo2{
+
+.logo2 {
     display: none;
 }
-.nav-con-m{
+
+.nav-con-m {
     display: none;
 }
 
@@ -226,9 +229,11 @@ header {
     position: relative;
 
 }
-.search-wrap{
+
+.search-wrap {
     display: none !important;
 }
+
 .search-con-d-d {
     position: relative;
 }
@@ -284,6 +289,7 @@ header {
     position: absolute;
     content: "";
 }
+
 /* .search-each-con::after{
     content: "";
     background: transparent;
@@ -303,7 +309,7 @@ header {
     position: absolute;
 } */
 .search-each-wrap {
-    padding: 14px 32px 16px;
+    padding: 14px 32px 16px 31.5px;
     width: 100%;
     position: relative;
     overflow: clip;
@@ -319,8 +325,8 @@ header {
 }
 
 .search-each-text {
-    transform: translateY(-.5px);
-    padding-bottom: 3px;
+    /* transform: translateY(-.5px); */
+    padding-bottom: 2px;
     line-height: 1rem;
     font-size: 0.75rem;
     font-weight: 500;
@@ -344,7 +350,7 @@ header {
     background: none;
     border: none;
     text-decoration: none;
-    letter-spacing: .235px;
+    /* letter-spacing: .235px; */
     outline: none;
 
 }
