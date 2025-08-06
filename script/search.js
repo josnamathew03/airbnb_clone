@@ -63,12 +63,9 @@ export function search() {
         }
         // console.log(newCat)
         // renderCategories(newCat)
-        if (Object.keys(newCat).length > 0) {
+   
             renderCategories(newCat)
-        } else {
-            // optionally: render "no results found" message or leave blank
-            categoryCon.innerHTML = "<p>No matches found.</p>"
-        }
+        
 
 
     }
